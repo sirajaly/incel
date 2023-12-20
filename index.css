@@ -1,3 +1,11 @@
+@font-face {
+  font-family: "insideOut"; /*a name to be used later*/
+  src: url("./fonts/inside-out/Inside\ Out4.otf"); /*URL to font*/
+}
+body {
+  font-family: "insideOut";
+}
+
 .macbook-pro-16-child {
   position: absolute;
   top: calc(50% - 2973px);
