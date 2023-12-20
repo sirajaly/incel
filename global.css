@@ -1,6 +1,17 @@
+@font-face {
+  font-family: var("inside-out");
+  src: url("./fonts/inside-out/Inside\ Out4.otf");
+}
+
+@font-face {
+  font-family: var(--font-ink-free);
+  src: url("./fonts/ink-free/ink-free.otf");
+}
+
 body {
   margin: 0;
   line-height: normal;
+  font-family: "inside-out";
 }
 
 :root {
