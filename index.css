@@ -76,15 +76,18 @@
   top: 2191px;
   left: 0;
   width: 853px;
+  font-family: "inside-out";
 }
 .lets-trade {
   top: 4467px;
   left: calc(50% - 413px);
   width: 827px;
   height: 210px;
+  font-family: "inside-out";
 }
 .i {
   margin: 0;
+  font-family: "inside-out";
 }
 .i-have,
 .incel {
@@ -96,6 +99,7 @@
   display: inline-block;
   width: 565px;
   height: 432px;
+  font-family: "inside-out";
 }
 .incel {
   top: 5131px;
@@ -123,6 +127,7 @@
   top: 615px;
   left: 299px;
   color: var(--color-lime);
+  font-family: "inside-out";
 }
 .coinhall,
 .twitter {
@@ -210,6 +215,7 @@
   top: 1146px;
   left: 431px;
   color: var(--color-fuchsia);
+  font-family: "inside-out";
 }
 .macbook-pro-16-child3 {
   position: absolute;
