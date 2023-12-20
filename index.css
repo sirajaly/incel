@@ -242,7 +242,7 @@
   left: -277px;
   background-color: var(--color-fuchsia);
   /* filter: blur(20px); */
-  width: 2100px;
+  width: -webkit-fill-available;
   height: 166px;
 }
 .twitter-group {
