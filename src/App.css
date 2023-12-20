@@ -1,5 +1,10 @@
+@font-face {
+  font-family: "InsideOut"; /*a name to be used later*/
+  src: url("../src/inside-out/Inside\ Out4.otf"); /*URL to font*/
+}
+
 body {
-  font-family: Arial, sans-serif;
+  font-family: "InsideOut";
   background-color: black;
 }
 
@@ -7,7 +12,7 @@ nav ul {
   list-style: none;
   display: flex;
   justify-content: center;
-  background-color: #F93EF2;
+  background-color: #f93ef2;
   padding: 0;
   margin-top: 30px;
 }
@@ -18,7 +23,7 @@ nav li {
 }
 
 nav a {
-  color: #05FF00;
+  color: #05ff00;
   text-decoration: none;
   font-weight: 800;
   font-size: 40px;
