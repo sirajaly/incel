@@ -1,0 +1,290 @@
+.macbook-pro-16-child {
+  position: absolute;
+  top: calc(50% - 2973px);
+  /* left: calc(50% - 864px); */
+  background-color: var(--color-black);
+  width: 100%;
+  height: 6392px;
+}
+.macbook-pro-16-item {
+  position: absolute;
+  top: 378px;
+  left: 812px;
+  background-color: var(--color-limegreen-100);
+  filter: blur(20px);
+  width: 807px;
+  height: 705px;
+}
+.macbook-pro-16-inner,
+.rectangle-div {
+  position: absolute;
+  top: 1324px;
+  left: 828px;
+  background-color: var(--color-fuchsia);
+  /* filter: blur(20px); */
+  width: 100%;
+  height: 607px;
+}
+.rectangle-div {
+  top: 107px;
+  left: -147px;
+  width: 2100px;
+  height: 166px;
+}
+.macbook-pro-16-child1,
+.macbook-pro-16-child2 {
+  position: absolute;
+  top: 1324px;
+  left: -36px;
+  background-color: var(--color-limegreen-100);
+  /* filter: blur(20px); */
+  width: 905px;
+  height: 607px;
+}
+.macbook-pro-16-child2 {
+  top: 3126px;
+  height: 1187px;
+}
+.img-20231220-wa0004-icon,
+.img-20231220-wa0005-icon {
+  position: absolute;
+  top: 1359px;
+  left: 279px;
+  width: 525px;
+  height: 524px;
+  object-fit: cover;
+}
+.img-20231220-wa0005-icon {
+  top: 1977px;
+  left: 742px;
+  width: 941px;
+  height: 1113px;
+}
+.lets-trade,
+.you-noob {
+  position: absolute;
+  font-size: var(--font-size-131xl);
+  text-align: center;
+  display: inline-block;
+}
+.you-noob {
+  top: 2191px;
+  left: 0;
+  width: 853px;
+}
+.lets-trade {
+  top: 4467px;
+  left: calc(50% - 413px);
+  width: 827px;
+  height: 210px;
+}
+.i {
+  margin: 0;
+}
+.i-have,
+.incel {
+  position: absolute;
+  top: 5004px;
+  left: calc(50% - 958px);
+  font-size: var(--font-size-131xl);
+  text-align: center;
+  display: inline-block;
+  width: 565px;
+  height: 432px;
+}
+.incel {
+  top: 5131px;
+  left: calc(50% + 355px);
+}
+.whatsapp-image-2023-12-20-at-0 {
+  position: absolute;
+  top: 3189px;
+  left: 0;
+  width: 671px;
+  height: 1056px;
+  object-fit: cover;
+}
+.we-found-the {
+  position: absolute;
+  top: 528px;
+  left: 236px;
+  font-size: 70px;
+  font-family: var(--font-ink-free);
+  color: var(--color-white);
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.incel1 {
+  position: absolute;
+  top: 615px;
+  left: 299px;
+  color: var(--color-lime);
+}
+.coinhall,
+.twitter {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.coinhall {
+  left: 836px;
+}
+.telegram,
+.twitter-parent {
+  position: absolute;
+  top: 0;
+  left: 408px;
+}
+.twitter-parent {
+  top: 138px;
+  left: 299px;
+  /* box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25); */
+  width: 1129px;
+  height: 104px;
+  font-size: var(--font-size-71xl);
+  color: var(--color-lime);
+}
+.going-somewhere,
+.you-incel,
+.you-incel1 {
+  position: absolute;
+  top: 1837px;
+  left: 119px;
+  color: var(--color-black);
+  display: inline-block;
+  width: 476px;
+  height: 111px;
+  transform: rotate(-90deg);
+  transform-origin: 0 0;
+}
+.going-somewhere,
+.you-incel1 {
+  top: 1390px;
+  left: 1630px;
+  transform: rotate(90deg);
+}
+.going-somewhere {
+  top: 4090px;
+  left: 713px;
+  width: 819px;
+  transform: rotate(-90deg);
+}
+.lorem-ipsum-is {
+  top: 804px;
+  left: 183px;
+  color: #3ffa51;
+  width: 530px;
+  text-shadow: 1px 0 0#000, 0 1px 0#000, -1px 0 0#000, 0-1px 0#000;
+}
+.lorem-ipsum-is,
+.lorem-ipsum-is1,
+.lorem-ipsum-is2 {
+  position: absolute;
+  font-size: var(--font-size-5xl);
+  line-height: 150%;
+  font-family: var(--font-ink-free);
+  text-align: center;
+  display: inline-block;
+  height: 263px;
+}
+.lorem-ipsum-is1 {
+  top: 2780px;
+  left: 162px;
+  color: var(--color-fuchsia);
+  width: 530px;
+}
+.lorem-ipsum-is2 {
+  top: 4665px;
+  left: calc(50% - 550px);
+  color: #03b4ff;
+  width: 1100px;
+}
+.what-are-you {
+  position: absolute;
+  top: 1146px;
+  left: 431px;
+  color: var(--color-fuchsia);
+}
+.macbook-pro-16-child3 {
+  position: absolute;
+  top: 4826px;
+  left: 389px;
+  background-color: var(--color-limegreen-100);
+  filter: blur(20px);
+  width: 905px;
+  height: 1187px;
+}
+.img-20231220-wa0002-icon {
+  position: absolute;
+  top: 417px;
+  left: 906px;
+  width: 620px;
+  height: 628px;
+  object-fit: cover;
+}
+.c0131ccd-fabd-4bad-b92d-d322b8-icon,
+.jesse-cox-omfgcata-1-icon {
+  position: absolute;
+  top: 2377px;
+  left: 125px;
+  width: 652px;
+  height: 365px;
+  object-fit: cover;
+}
+.jesse-cox-omfgcata-1-icon {
+  top: 3899px;
+  left: 928px;
+  width: 693px;
+  height: 381px;
+}
+.macbook-pro-16-child4 {
+  position: absolute;
+  top: 5729px;
+  left: -277px;
+  background-color: var(--color-fuchsia);
+  filter: blur(20px);
+  width: 2100px;
+  height: 166px;
+}
+.twitter-group {
+  position: absolute;
+  top: 5760px;
+  left: 299px;
+  width: 1129px;
+  height: 104px;
+  font-size: var(--font-size-71xl);
+  color: var(--color-lime);
+}
+.img-20231220-wa0003-icon {
+  position: absolute;
+  top: 3159px;
+  left: 915px;
+  width: 739px;
+  height: 633px;
+  object-fit: cover;
+}
+.image-1-icon,
+.whatsapp-image-2023-12-20-at-01 {
+  position: absolute;
+  top: 4921px;
+  left: 462px;
+  width: 782px;
+  height: 596px;
+  object-fit: cover;
+}
+.image-1-icon {
+  top: 1361px;
+  left: 936px;
+  width: 524px;
+  height: 524px;
+}
+.macbook-pro-16 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 5946px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-81xl);
+  color: var(--color-limegreen-100);
+  font-family: var(--font-inside-out);
+}

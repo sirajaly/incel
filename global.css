@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-inside-out: "Inside Out";
+  --font-ink-free: "Ink Free";
+
+  /* font sizes */
+  --font-size-71xl: 90px;
+  --font-size-81xl: 100px;
+  --font-size-5xl: 24px;
+  --font-size-131xl: 150px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-lime: #05ff00;
+  --color-fuchsia: #f93ef2;
+  --color-limegreen-100: #3ef951;
+  --color-black: #000;
+}
