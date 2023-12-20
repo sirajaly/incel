@@ -1,0 +1,89 @@
+.main-section {
+    display: flex;
+    width: 100%;
+    margin: auto;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+}
+
+.left-container {
+    width: 40%;
+}
+.right-container {
+    width: 45%;
+    background-color: #3EF951;
+    display: flex;
+    justify-content: center;
+}
+
+.text-container {
+    text-align: center;
+}
+
+.heading {
+    color: white;
+    font-size: 30px;
+    margin: auto;
+}
+
+.paragraph {
+    color: rgb(174, 241, 119);
+    margin-top: 40px;
+}
+
+.sub-heading {
+    color: #05FF00;
+    font-size: 50px;
+    margin: auto;
+}
+
+.bottom-heading {
+    color: #F93EF2;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 800;
+    text-transform: uppercase;
+}
+
+.incel-section {
+display: flex;
+margin-bottom: 40px;
+width: 100%;
+}
+
+.left-incel-text {
+    color: black;
+    transform:rotate(-90deg);
+    font-size: 40px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+}
+
+.right-incel-text {
+    color: black;
+    transform:rotate(90deg);
+    font-size: 40px;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    font-weight: 800;
+}
+
+.left-incel {
+    width: 50%;
+    display: flex;
+    background-color: #3EF951;
+}
+
+.right-incel {
+    width: 50%;
+    display: flex;
+    background-color: #F93EF2;
+}
+
+.meme {
+    background-color: black;
+}
