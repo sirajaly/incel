@@ -241,7 +241,7 @@
   top: 5729px;
   left: -277px;
   background-color: var(--color-fuchsia);
-  filter: blur(20px);
+  /* filter: blur(20px); */
   width: 2100px;
   height: 166px;
 }
